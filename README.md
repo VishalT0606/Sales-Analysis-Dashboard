@@ -1,4 +1,5 @@
 📊 Sales Analysis Dashboard – Executive Summary
+
 🧭 Objective
 
 To analyze overall sales, profit, customer segments, shipping modes, and product categories in order to evaluate business performance and identify key drivers of growth. This dashboard provides insights to help optimize product strategy, improve customer targeting, and enhance operational efficiency.
